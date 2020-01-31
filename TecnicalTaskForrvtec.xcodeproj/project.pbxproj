@@ -16,6 +16,7 @@
 		171A2BFD23E2FF62007EAA72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 171A2BFB23E2FF62007EAA72 /* LaunchScreen.storyboard */; };
 		171A2C0823E2FF62007EAA72 /* TecnicalTaskForrvtecTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A2C0723E2FF62007EAA72 /* TecnicalTaskForrvtecTests.swift */; };
 		171A2C1323E2FF63007EAA72 /* TecnicalTaskForrvtecUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 171A2C1223E2FF63007EAA72 /* TecnicalTaskForrvtecUITests.swift */; };
+		1799E70F23E413C4009A13EC /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1799E70E23E413C4009A13EC /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		171A2C0E23E2FF63007EAA72 /* TecnicalTaskForrvtecUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TecnicalTaskForrvtecUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		171A2C1223E2FF63007EAA72 /* TecnicalTaskForrvtecUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TecnicalTaskForrvtecUITests.swift; sourceTree = "<group>"; };
 		171A2C1423E2FF63007EAA72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1799E70E23E413C4009A13EC /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				171A2BFB23E2FF62007EAA72 /* LaunchScreen.storyboard */,
 				171A2BFE23E2FF62007EAA72 /* Info.plist */,
 				171A2BF623E2FF5F007EAA72 /* TecnicalTaskForrvtec.xcdatamodeld */,
+				1799E70E23E413C4009A13EC /* TableViewCell.swift */,
 			);
 			path = TecnicalTaskForrvtec;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1799E70F23E413C4009A13EC /* TableViewCell.swift in Sources */,
 				171A2BF223E2FF5F007EAA72 /* ViewController.swift in Sources */,
 				171A2BEE23E2FF5F007EAA72 /* AppDelegate.swift in Sources */,
 				171A2BF823E2FF5F007EAA72 /* TecnicalTaskForrvtec.xcdatamodeld in Sources */,
